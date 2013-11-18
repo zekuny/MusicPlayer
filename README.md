@@ -2,7 +2,7 @@ MusicPlayer
 ===========
 
 
-######Project Proposal
+###Project Proposal
 ###Vision: 
 The project is to build an easily used and user friendly Music Player in Linux environment. 
 ###Milestone:
