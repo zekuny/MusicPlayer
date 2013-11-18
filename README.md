@@ -2,8 +2,9 @@ MusicPlayer
 ===========
 
 
-###Project Proposal
-###Vision: The project is to build an easily used and user friendly Music Player in Linux environment. 
+######Project Proposal
+###Vision: 
+The project is to build an easily used and user friendly Music Player in Linux environment. 
 ###Milestone:
 1 Be familiar with how to build Pygame environment and install corresponding libraries in Ubuntu.
 2 Figure out how to find file location and upload files.
