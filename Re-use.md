@@ -1,1 +1,6 @@
-q
+MusicPlayer
+===========
+
+
+###Project Proposal
+###Vision: 
