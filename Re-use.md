@@ -10,7 +10,5 @@ Re-use guidance
 * MStack.py: This includes python codes to store music file's path and name.
 
 ###Re-use: 
-* You may add music to music folder or change images for background and buttons.
+## You may add music to music folder or change images for background and buttons.
 * There are many functions for you to realize:
-  **qq
-  **qq
