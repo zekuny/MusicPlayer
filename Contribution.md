@@ -9,7 +9,7 @@ Contribution guidance
 * MButton.py: This includes python codes for button functions.
 * MStack.py: This includes python codes to store music file's path and name.
 
-###Re-use: 
+###Contribution: 
 #### There are many functions for you to realize:
 * Add lyrics display.
 * Change music background according to the singer of the Music.
