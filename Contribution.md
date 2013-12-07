@@ -1,5 +1,5 @@
-Re-use guidance
-===============
+Contribution guidance
+=====================
 
 ###Existing functional files for music player:
 * font: The folder font includes hy.ttf, which is used to change the default font you want to show in the music player.
@@ -10,13 +10,13 @@ Re-use guidance
 * MStack.py: This includes python codes to store music file's path and name.
 
 ###Re-use: 
-#### You may add music to music folder or change images for background and buttons.
 #### There are many functions for you to realize:
 * Add lyrics display.
 * Change music background according to the singer of the Music.
 * Add different play modes: random play, single cycle, etc.
 * Add the function to search music.
 * Add different style for playing music, say, heavy metal, country music, hip-pop, etc.
+* Make a music list of your own and can be exported.
 * Other functions you think that can make a better music player.
 
 ##### Notice: When you make any functional changes, you may add a separate .py file for the realization of functions and also modify the main.py to call these functions.
