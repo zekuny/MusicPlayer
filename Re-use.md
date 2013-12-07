@@ -15,5 +15,5 @@ Re-use guidance
 * You can change the images for background and buttons according to your preference.
 * You may change the font you like in the font folder.
 
-######Notice: I have the annotations for each piece of codes in the main.py file. You may change certain parameters like screen size, button positions or any other thing you like to make your unique music player.
+#####Notice: I have the annotations for each piece of codes in the main.py file. You may change certain parameters like screen size, button positions or any other thing you like to make your unique music player.
 
