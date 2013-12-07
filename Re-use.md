@@ -10,13 +10,9 @@ Re-use guidance
 * MStack.py: This includes python codes to store music file's path and name.
 
 ###Re-use: 
-#### You may add music to music folder or change images for background and buttons.
-#### There are many functions for you to realize:
-* Add lyrics display.
-* Change music background according to the singer of the Music.
-* Add different play modes: random play, single cycle, etc.
-* Add the function to search music.
-* Add different style for playing music, say, heavy metal, country music, hip-pop, etc.
-* Other functions you think that can make a better music player.
+* You may add music files with the extension of .wav, .ogg, .mp3.
+* You can create new folders in the parent folder, and add music files to this folders.
+* You can change the images for background and buttons according to your preference.
+* You may change the font you like in the font folder.
+###### I have the annotation for each piece of codes in the main.py file. You may change certain parameters like creen size, button position or any other thing you like to make your unique music player.
 
-##### Notice: When you make any functional changes, you may add a separate .py file for the realization of functions and also modify the main.py to call these functions.
