@@ -35,7 +35,7 @@ This Music Player would be useful for Linux based system users, and could also b
 
 Notice: For the successful running of the music player, you should make sure that you have installed the required libraries: python-pygame and python-wxgtk2.8.
 ###Re-use: 
-Please refer to [_config.yml](https://github.com/zekuny/MusicPlayer/blob/master/_config.yml)
+Please refer to [Re-use.md](https://github.com/zekuny/MusicPlayer/blob/master/Re-use.md)
 ###Contribution: 
 Please refer to [Contribution.md](https://github.com/zekuny/MusicPlayer/blob/master/Contribution.md)
 ###Licence: 
