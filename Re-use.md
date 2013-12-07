@@ -11,4 +11,12 @@ Re-use guidance
 
 ###Re-use: 
 #### You may add music to music folder or change images for background and buttons.
-* There are many functions for you to realize:
+#### There are many functions for you to realize:
+* Add lyrics display.
+* Change music background according to the singer of the Music.
+* Add different play modes: random play, single cycle, etc.
+* Add the function to search music.
+* Add different style for playing music, say, heavy metal, country music, hip-pop, etc.
+* Other functions you think that can make a better music player.
+
+##### Notice: When you make any functional changes, you may add a separate .py file for the realization of functions and also modify the main.py to call these functions.
