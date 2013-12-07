@@ -14,5 +14,6 @@ Re-use guidance
 * You can create new folders in the parent folder, and add music files to this folders.
 * You can change the images for background and buttons according to your preference.
 * You may change the font you like in the font folder.
+
 ######I have the annotation for each piece of codes in the main.py file. You may change certain parameters like creen size, button position or any other thing you like to make your unique music player.
 
