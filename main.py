@@ -169,7 +169,7 @@ def main(path):
                 elif button_pressed == "pre":
                     if playing:
 #Restart if played time is greater than 3 seconds
-                        if pygame.mixer.music.get_pos() > 3000:
+                        if pygame.mixer.music.get_pos() > 5000:
                             pygame.mixer.music.stop();
                             pygame.mixer.music.play();
                         else:
